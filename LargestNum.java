@@ -1,6 +1,6 @@
 class LargestNum
 {
-	public static void main(String[] args)
+	static public void main(String[] args)
 	{
 		int lar, a = 10, b = 2, c = 20;
 		if( a>b && a>c){
